@@ -10,7 +10,7 @@ This repository contains my SQL projects.
 **Show all unique fruit names in the table.**
 '''sql
        SELECT DISTINCT product_name
-FROM jan_sales;
+       FROM jan_sales;
 '''
 **Display the first 10 sales records**
 '''sql
